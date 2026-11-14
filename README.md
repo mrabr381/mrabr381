@@ -4,7 +4,7 @@
 
 I build fast, zero-knowledge browser applications, client-side utility suites, and autonomous AI workflows. My focus is simple: **software should respect user privacy, run directly on your device whenever possible, and solve real problems without friction.**
 
-- 🌐 **Live Platform:** [toolenix.com](https://toolenix.com) — *113+ Free, 100% Client-Side Browser Tools*
+- 🌐 **Live Platform:** [toolenix.com](https://toolenix.com) — *100+ Free, 100% Client-Side Browser Tools*
 - 🕵️ **Latest Security Project:** [Hidden Chat](https://hidden-chaat.netlify.app/) ([Source Code](https://github.com/mrabr381/Hidden-Chat-))
 - 📍 **Location:** Punjab, Pakistan
 - ✍️ **Creative Side:** Urdu Poetry under the pen name **AbuBakar Hadi (ابوبکر ہادیؔ)**
@@ -13,7 +13,7 @@ I build fast, zero-knowledge browser applications, client-side utility suites, a
 
 ### 🚀 Flagship Projects
 
-#### 1. 🛠️ [Toolenix — 113+ Free Privacy-First Online Tools](https://toolenix.com)
+#### 1. 🛠️ [Toolenix — 100+ Free Privacy-First Online Tools](https://toolenix.com)
 A comprehensive suite of **100% client-side browser utilities and statutory calculators** engineered to run entirely in browser RAM — **zero server uploads, zero watermarks, and no sign-ups**.
 - **UK Statutory & Tax Suite (12 Tools):** PAYE, National Insurance, Stamp Duty, VAT, and statutory pay calculators.
 - **US Federal & Personal Finance (17 Tools):** Federal tax estimators, mortgage/loan amortization, and retirement utilities.
