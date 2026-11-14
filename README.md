@@ -49,5 +49,6 @@ A single-page progressive web app (PWA) for zero-knowledge real-time chat and em
 ### 📫 Connect With Me
 - 🌍 **Explore Toolenix:** [https://toolenix.com](https://toolenix.com)
 - 🔐 **Try Hidden Chat:** [https://hidden-chaat.netlify.app/](https://hidden-chaat.netlify.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/muhammad-abubakar-azam](https://www.linkedin.com/in/muhammad-abubakar-azam)
 - 💻 **GitHub:** [github.com/mrabr381](https://github.com/mrabr381/)
-- 
+
