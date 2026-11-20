@@ -35,6 +35,27 @@ A single-page progressive web app (PWA) for zero-knowledge real-time chat and em
 
 ---
 
+### 🧰 Free Creator Tools — 12 open-source projects
+
+Every project below is free, runs on your own machine, and needs no paid API key for its core job. One line each — click a demo to see it working.
+
+| Project | What it does | Try it |
+|---|---|---|
+| [creator-repurpose-agent](https://github.com/mrabr381/creator-repurpose-agent) | Turn one recording into a blog, X thread, LinkedIn post and newsletter | [Sample pack](https://mrabr381.github.io/creator-repurpose-agent/sample_data/sample_output/) |
+| [open-vidiq](https://github.com/mrabr381/open-vidiq) | Find which of your videos beat the average — free | [Sample report](https://mrabr381.github.io/open-vidiq/sample_output/) |
+| [geo-visibility-checker](https://github.com/mrabr381/geo-visibility-checker) | See how often AI answers mention your brand | [Sample report](https://mrabr381.github.io/geo-visibility-checker/sample_data/sample_output/) |
+| [creator-agent-skills-pack](https://github.com/mrabr381/creator-agent-skills-pack) | 6 ready-made skills for AI coding assistants (research, SEO, thumbnails) | [Repo](https://github.com/mrabr381/creator-agent-skills-pack) |
+| [local-ats-resume-matcher](https://github.com/mrabr381/local-ats-resume-matcher) | Check your resume against a job posting, 100% on your machine | [Live demo](https://mrabr381.github.io/local-ats-resume-matcher/) |
+| [browser-screen-recorder](https://github.com/mrabr381/browser-screen-recorder) | Record your screen in the browser, then edit the video by editing the transcript | [Repo](https://github.com/mrabr381/browser-screen-recorder) |
+| [local-audio-enhancer](https://github.com/mrabr381/local-audio-enhancer) | Clean up voice recordings on your machine — no upload, no subscription | [Repo](https://github.com/mrabr381/local-audio-enhancer) |
+| [batch-background-remover](https://github.com/mrabr381/batch-background-remover) | Remove backgrounds from many images at once, free and local | [Repo](https://github.com/mrabr381/batch-background-remover) |
+| [digital-product-storefront](https://github.com/mrabr381/digital-product-storefront) | Sell downloads with 0% commission — your own store, no monthly fee | [Live store](https://mrabr381.github.io/digital-product-storefront/) |
+| [seo-geo-audit-cli](https://github.com/mrabr381/seo-geo-audit-cli) | Audit any site for SEO and AI-search readiness, from your terminal | [Sample report](https://mrabr381.github.io/seo-geo-audit-cli/sample_output/) |
+| [creator-mcp-server](https://github.com/mrabr381/creator-mcp-server) | Give Claude Code and Cursor creator tools: outliers, titles, SEO checks | [Repo](https://github.com/mrabr381/creator-mcp-server) |
+| [local-pdf-ai](https://github.com/mrabr381/local-pdf-ai) | Ask questions about your PDFs — answers with page citations, fully local | [Sample Q&A](https://mrabr381.github.io/local-pdf-ai/sample_output/) |
+
+---
+
 ### 💻 Tech Stack & Core Capabilities
 
 | Domain | Technologies & Standards |
