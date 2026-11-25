@@ -9,6 +9,8 @@ I build fast, zero-knowledge browser applications, client-side utility suites, a
 - 📍 **Location:** Punjab, Pakistan
 - ✍️ **Creative Side:** Urdu Poetry under the pen name **AbuBakar Hadi (ابوبکر ہادیؔ)**
 
+[![GitHub stars](https://img.shields.io/github/stars/mrabr381/mrabr381?style=social)](https://github.com/mrabr381/mrabr381) [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/muhammadabubakar)
+
 ---
 
 ### 🚀 Flagship Projects
